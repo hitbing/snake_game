@@ -42,3 +42,6 @@ python3 snake.py
 | `M` | Mute / Unmute Sound |
 | `Enter` / `R` | Restart after Game Over |
 | `Esc` / `Q` | Quit Game |
+
+
+## This is a test for version update in github.
